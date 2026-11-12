@@ -1,0 +1,139 @@
+.a1{
+    
+    display: grid;
+    background-color: aquamarine;
+    padding-left: 10em;
+    padding-right: 10em;
+    grid-template-rows: 150px 25px 150px 25px 150px;
+    width: 500px;
+    height: 500px;
+    
+}
+.a2{
+    
+    background-color: rgb(12, 106, 230);
+    margin: 0;
+    
+}
+.a3{
+    background-color: rgb(234, 3, 3);
+    margin: 0;
+}
+.a4{
+    background-color: rgb(22, 255, 42);
+    margin: 0;
+}
+
+.a5{
+    
+    background-color: black;
+    margin: 0;
+    
+}
+
+/*ti 2*/
+.q1{
+    display: grid;
+    width: 500px;
+    height: 354px;
+    grid-template-columns: 3em 200px 3em 156px 3em; 
+}
+.q2{
+    background-color: blueviolet;
+    grid-column: 3em;
+    height: 354px;
+    margin: 0;
+}
+.q3{
+    background-color: rgb(72, 102, 119);
+    grid-column: 200px;
+    height: 354px;
+    margin: 0;
+}
+.a9{
+    background-color: rgb(195, 130, 162);
+    grid-column: 156px;
+    height: 354px;
+    margin: 0;
+}
+.q4{
+    
+    grid-template-rows: 1em 100px 1em 100px 1em 100px 1em;
+
+}
+.qa1{
+    background-color: rgb(43, 143, 171);
+    height: 100px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.qa2{
+    background-color: rgb(43, 143, 171);
+    height: 100px;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.qa3{
+    background-color: rgb(43, 143, 171);
+    height: 100px;
+    margin-left: 1em;
+    margin-right: 1em;
+    
+}
+
+
+/*ti3*/
+
+.z1{
+    display: grid;
+    background-color: aliceblue;
+    height: 500px;
+    width: 500px;
+    grid-template-rows: 100px 1em 268px 1em 100px;
+    
+}
+.z2{
+    height: 100px;
+    background-color: rgb(3, 158, 255);
+    margin-bottom: 1em;
+    margin: 1em;
+}
+
+.z3{
+    height: 268px;
+    background-color: rgb(131, 170, 33);
+    margin: 1em;
+    grid-column: 334px;
+    width: 351px;
+}
+.z8{display: flex;
+    grid-template-columns: 350px 150px;
+}
+.z9{
+    width: 149px;
+    margin-right: 1em;
+    background-color: rgb(224, 71, 15);
+    height: 268px;
+}
+.z5{
+    display: grid;
+    background-color: aliceblue;
+}
+.z4{
+    height: 100px;
+    background-color: rgb(3, 158, 255);
+    margin: 1em;
+}
+.w1{
+    display: grid;
+    grid-template-columns: 1em 27px 1em 27px 1em 27px 1em;
+
+}
+.w2{
+    width: 27px;
+    background-color: blue;
+}
+
+
+
